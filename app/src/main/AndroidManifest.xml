@@ -1,0 +1,87 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+           package="com.androidemu.ness"
+           android:installLocation="preferExternal"
+           android:versionCode="62"
+           android:versionName="2.5">
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_label">
+        <activity
+            android:name="com.androidemu.ness.MainActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <!--<category android:name="android.intent.category.DEFAULT" />-->
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" android:name="com.google.android.gms.ads.AdActivity" android:theme="@android:style/Theme.Translucent" />
+
+        <activity-alias
+            android:name="CreateShortcuts"
+            android:label="@string/launcher_shortcut_name"
+            android:targetActivity="com.androidemu.ness.MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.CREATE_SHORTCUT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity-alias>
+
+        <activity android:name="com.androidemu.ness.FileChooser" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.androidemu.ness.StateSlotsActivity"
+            android:theme="@android:style/Theme.Dialog"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.androidemu.ness.KeyProfilesActivity" android:screenOrientation="portrait"/>
+        <activity android:name="com.androidemu.ness.HelpActivity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.androidemu.ness.DeviceListActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@android:style/Theme.Dialog"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.androidemu.ness.CheatsActivity"
+            android:process=":emulator"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.androidemu.ness.EmulatorSettings"
+            android:process=":emulator"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.androidemu.ness.EmulatorActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:launchMode="singleTask"
+            android:process=":emulator"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:scheme="file" />
+                <data android:mimeType="application/zip" />
+                <data android:mimeType="application/octet-stream" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.androidemu.ness.AdsActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"></activity>
+        <!--<activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" android:name="com.google.android.gms.ads.AdActivity" android:theme="@android:style/Theme.Translucent" />-->
+        <service
+            android:name="com.androidemu.ness.EmulatorService"
+            android:process=":emulator" />
+    </application>
+
+</manifest>

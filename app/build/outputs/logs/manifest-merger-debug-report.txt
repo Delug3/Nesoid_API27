@@ -1,0 +1,315 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:1:1-87:12
+INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:1:1-87:12
+INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:1:1-87:12
+INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:1:1-87:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.1.aar\f33153e39c261572bd468ba4134ce657\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\c9b728f99c7828938fde65a52586639b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\d1d95eb9d216d362606a4d07dd690dc2\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\0eebc0bed6a03d39dd83fb11640318f5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\2527086dd80eb5739cb4adeff82b4e73\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\77070255e96048ec15f54e1609014a8e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4317bae01911d665899da80b5be934f0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\453928ba82284150c3feec9f591a3256\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\63e881d30fd6f7fe3813e2ef98573161\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\51247247904dd91258ebe6a5c4b03c13\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\413158f6e70a0d0730fc4f2ddf844e8d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7f5f3e34f80d03771dad00460a62e4ba\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8e8fe0486dd88c77e9d6d6e0e943b630\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\361bc1eaa2724e107f3d1870a7e2e225\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:1:1-87:12
+INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:1:1-87:12
+INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:1:1-87:12
+	package
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:2:12-41
+		INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:5:12-37
+		INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:4:12-36
+		INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:3:12-52
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:9:22-71
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\d1d95eb9d216d362606a4d07dd690dc2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\d1d95eb9d216d362606a4d07dd690dc2\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:11:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:12:22-78
+application
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:14:5-85:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\c9b728f99c7828938fde65a52586639b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\c9b728f99c7828938fde65a52586639b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\d1d95eb9d216d362606a4d07dd690dc2\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\d1d95eb9d216d362606a4d07dd690dc2\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\0eebc0bed6a03d39dd83fb11640318f5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\0eebc0bed6a03d39dd83fb11640318f5\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\2527086dd80eb5739cb4adeff82b4e73\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\2527086dd80eb5739cb4adeff82b4e73\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\77070255e96048ec15f54e1609014a8e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\77070255e96048ec15f54e1609014a8e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4317bae01911d665899da80b5be934f0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4317bae01911d665899da80b5be934f0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\453928ba82284150c3feec9f591a3256\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\453928ba82284150c3feec9f591a3256\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\63e881d30fd6f7fe3813e2ef98573161\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\63e881d30fd6f7fe3813e2ef98573161\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\51247247904dd91258ebe6a5c4b03c13\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\51247247904dd91258ebe6a5c4b03c13\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\413158f6e70a0d0730fc4f2ddf844e8d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\413158f6e70a0d0730fc4f2ddf844e8d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7f5f3e34f80d03771dad00460a62e4ba\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7f5f3e34f80d03771dad00460a62e4ba\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8e8fe0486dd88c77e9d6d6e0e943b630\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8e8fe0486dd88c77e9d6d6e0e943b630\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\361bc1eaa2724e107f3d1870a7e2e225\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\361bc1eaa2724e107f3d1870a7e2e225\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:16:9-42
+	android:icon
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:15:9-42
+activity#com.androidemu.ness.MainActivity
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:17:9-27:20
+	android:screenOrientation
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:20:13-49
+	android:configChanges
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:19:13-63
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:18:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:21:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:29:9-233
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\d1d95eb9d216d362606a4d07dd690dc2\AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\d1d95eb9d216d362606a4d07dd690dc2\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\d1d95eb9d216d362606a4d07dd690dc2\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:29:19-128
+	android:theme
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:29:182-230
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:29:129-181
+activity-alias#com.androidemu.ness.CreateShortcuts
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:31:9-41:26
+	android:screenOrientation
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:33:13-59
+	android:targetActivity
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:34:13-70
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:32:13-43
+intent-filter#android.intent.action.CREATE_SHORTCUT+android.intent.category.DEFAULT
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:37:17-80
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:37:25-77
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:39:27-73
+activity#com.androidemu.ness.FileChooser
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:43:9-104
+	android:screenOrientation
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:43:66-102
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:43:19-65
+activity#com.androidemu.ness.StateSlotsActivity
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:44:9-47:51
+	android:screenOrientation
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:47:13-49
+	android:theme
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:45:13-66
+activity#com.androidemu.ness.KeyProfilesActivity
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:48:9-112
+	android:screenOrientation
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:48:74-110
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:48:19-73
+activity#com.androidemu.ness.HelpActivity
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:49:9-105
+	android:screenOrientation
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:49:67-103
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:49:19-66
+activity#com.androidemu.ness.DeviceListActivity
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:50:9-54:51
+	android:screenOrientation
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:54:13-49
+	android:configChanges
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:52:13-63
+	android:theme
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:53:13-56
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:51:13-66
+activity#com.androidemu.ness.CheatsActivity
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:55:9-58:51
+	android:screenOrientation
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:58:13-49
+	android:process
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:57:13-40
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:56:13-62
+activity#com.androidemu.ness.EmulatorSettings
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:59:9-62:51
+	android:screenOrientation
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:62:13-49
+	android:process
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:61:13-40
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:60:13-64
+activity#com.androidemu.ness.EmulatorActivity
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:63:9-78:20
+	android:screenOrientation
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:68:13-49
+	android:process
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:67:13-40
+	android:launchMode
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:66:13-44
+	android:configChanges
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:65:13-63
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:64:13-64
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:69:13-77:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:70:17-69
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:70:25-66
+data
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:74:17-47
+	android:scheme
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:74:23-44
+	android:mimeType
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:75:23-57
+activity#com.androidemu.ness.AdsActivity
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:80:9-179
+	android:screenOrientation
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:80:66-102
+	android:theme
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:80:103-167
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:80:19-65
+service#com.androidemu.ness.EmulatorService
+ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:82:9-84:43
+	android:process
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:84:13-40
+	android:name
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml:83:13-63
+uses-sdk
+INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.1.aar\f33153e39c261572bd468ba4134ce657\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.1.aar\f33153e39c261572bd468ba4134ce657\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\c9b728f99c7828938fde65a52586639b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\c9b728f99c7828938fde65a52586639b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\d1d95eb9d216d362606a4d07dd690dc2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\d1d95eb9d216d362606a4d07dd690dc2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\0eebc0bed6a03d39dd83fb11640318f5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.1.aar\0eebc0bed6a03d39dd83fb11640318f5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\2527086dd80eb5739cb4adeff82b4e73\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.1.aar\2527086dd80eb5739cb4adeff82b4e73\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\77070255e96048ec15f54e1609014a8e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\77070255e96048ec15f54e1609014a8e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4317bae01911d665899da80b5be934f0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4317bae01911d665899da80b5be934f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\453928ba82284150c3feec9f591a3256\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\453928ba82284150c3feec9f591a3256\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\63e881d30fd6f7fe3813e2ef98573161\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\63e881d30fd6f7fe3813e2ef98573161\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\51247247904dd91258ebe6a5c4b03c13\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\51247247904dd91258ebe6a5c4b03c13\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\413158f6e70a0d0730fc4f2ddf844e8d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\413158f6e70a0d0730fc4f2ddf844e8d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7f5f3e34f80d03771dad00460a62e4ba\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7f5f3e34f80d03771dad00460a62e4ba\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8e8fe0486dd88c77e9d6d6e0e943b630\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8e8fe0486dd88c77e9d6d6e0e943b630\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\361bc1eaa2724e107f3d1870a7e2e225\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\361bc1eaa2724e107f3d1870a7e2e225\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.1.aar\f33153e39c261572bd468ba4134ce657\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Napst\Desktop\Nesoid 3 2 (API 27)\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\c9b728f99c7828938fde65a52586639b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\453928ba82284150c3feec9f591a3256\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\453928ba82284150c3feec9f591a3256\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\63e881d30fd6f7fe3813e2ef98573161\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\63e881d30fd6f7fe3813e2ef98573161\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\51247247904dd91258ebe6a5c4b03c13\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\51247247904dd91258ebe6a5c4b03c13\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\413158f6e70a0d0730fc4f2ddf844e8d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\413158f6e70a0d0730fc4f2ddf844e8d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7f5f3e34f80d03771dad00460a62e4ba\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7f5f3e34f80d03771dad00460a62e4ba\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8e8fe0486dd88c77e9d6d6e0e943b630\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\8e8fe0486dd88c77e9d6d6e0e943b630\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\c9b728f99c7828938fde65a52586639b\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:customtabs:26.1.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\c9b728f99c7828938fde65a52586639b\AndroidManifest.xml:24:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\d1d95eb9d216d362606a4d07dd690dc2\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.1.aar\d1d95eb9d216d362606a4d07dd690dc2\AndroidManifest.xml:24:22-76
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4317bae01911d665899da80b5be934f0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4317bae01911d665899da80b5be934f0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4317bae01911d665899da80b5be934f0\AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\361bc1eaa2724e107f3d1870a7e2e225\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\361bc1eaa2724e107f3d1870a7e2e225\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Napst\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\361bc1eaa2724e107f3d1870a7e2e225\AndroidManifest.xml:26:13-58

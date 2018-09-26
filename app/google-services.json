@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "159835929540",
+    "firebase_url": "https://nesoid-ac5f3.firebaseio.com",
+    "project_id": "nesoid-ac5f3",
+    "storage_bucket": "nesoid-ac5f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159835929540:android:b9225eb6d4294cb6",
+        "android_client_info": {
+          "package_name": "com.androidemu.nes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159835929540-6diblditdk802inqunl1f5nfn33a7pus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidemu.nes",
+            "certificate_hash": "97e23ef521fb7910630431c0f6ff776377ae0178"
+          }
+        },
+        {
+          "client_id": "159835929540-pnt5lsb4mh8u6f2hfl21jt7rfhd0vhc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL8motDViZ8fzeu_QIeLWvlHbw1_wj0zE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159835929540-pnt5lsb4mh8u6f2hfl21jt7rfhd0vhc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

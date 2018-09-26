@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    useLibrary 'org.apache.http.legacy'
+    compileSdkVersion 27
+    buildToolsVersion "27.0.3"
+
+    defaultConfig {
+        applicationId "com.khamsness.iceclumbe"
+        minSdkVersion 14
+        targetSdkVersion 27
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    sourceSets {
+        main {
+            jni.srcDirs = []
+        }
+    }
+}
+
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.google.android.gms:play-services-ads:15.0.1'
+//    compile 'com.felipecsl:gifimageview:2.2.0'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+
+
+}
+
+//apply plugin: 'com.google.gms.google-services'

@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_open.png.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\ic_menu_open.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_change_disk.png.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\ic_menu_change_disk.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_refresh.png.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_game_gripper.xml.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\layout\\game_gripper.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_list.xml.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading.gif.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\loading.gif"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\63e881d30fd6f7fe3813e2ef98573161\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play_button.png.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\play_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dpad.png.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\dpad.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_fast_forward.png.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\ic_menu_fast_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\63e881d30fd6f7fe3813e2ef98573161\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\menu_emulator.xml.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\menu\\emulator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\63e881d30fd6f7fe3813e2ef98573161\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\63e881d30fd6f7fe3813e2ef98573161\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_disconnect.png.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\ic_menu_disconnect.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_rom_gripper.png.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\ic_menu_rom_gripper.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sdcard.png.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\sdcard.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_state_slot_item.xml.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\layout\\state_slot_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\63e881d30fd6f7fe3813e2ef98573161\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_wifi_connect.xml.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\layout\\wifi_connect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_game_gripper.png.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\game_gripper.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_new_profile.xml.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\layout\\new_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_extra_buttons.png.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\extra_buttons.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.png.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_emulator.xml.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\layout\\emulator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\63e881d30fd6f7fe3813e2ef98573161\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_name.xml.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\menu_key_profiles.xml.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\menu\\key_profiles.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_seekbar_dialog.xml.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\layout\\seekbar_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_cheats.xml.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\layout\\cheats.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_file_chooser.xml.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\layout\\file_chooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\menu_file_chooser.xml.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\menu\\file_chooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_ads_view.xml.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\layout\\ads_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_setting_button.png.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\setting_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_shortcut.xml.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\layout\\shortcut.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_new_cheat.xml.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\layout\\new_cheat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_netplay.png.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\ic_menu_netplay.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\63e881d30fd6f7fe3813e2ef98573161\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon.png.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rom_gripper.png.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\rom_gripper.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\menu_cheats.xml.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\menu\\cheats.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttons.png.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\buttons.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_select_start_buttons.png.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\select_start_buttons.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_up_dir.png.flat",
+        "source": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\src\\main\\res\\drawable\\up_dir.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8e8fe0486dd88c77e9d6d6e0e943b630\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\63e881d30fd6f7fe3813e2ef98573161\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Napst\\Desktop\\Nesoid 3 2 (API 27)\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Napst\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\63e881d30fd6f7fe3813e2ef98573161\\res\\layout\\notification_template_big_media.xml"
+    }
+]

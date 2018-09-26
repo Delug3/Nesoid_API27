@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="aspect_ratio_entries">
+        <item>Default</item>
+        <item>4:3 (TV)</item>
+        <item>5:4</item>
+        <item>16:10</item>
+        <item>16:9</item>
+    </string-array>
+    <string-array name="aspect_ratio_entryvalues">
+		<item>0</item>
+		<item>1.3333</item>
+		<item>1.25</item>
+		<item>1.6</item>
+		<item>1.7778</item>
+	</string-array>
+    <string-array name="auto_sync_client_entries">
+        <item>10 seconds</item>
+        <item>20 seconds</item>
+        <item>30 seconds</item>
+        <item>45 seconds</item>
+        <item>1 minute</item>
+    </string-array>
+    <string-array name="auto_sync_client_entryvalues">
+		<item>10</item>
+		<item>20</item>
+		<item>30</item>
+		<item>45</item>
+		<item>60</item>
+	</string-array>
+    <string-array name="exit_game_options">
+        <item>Back to game</item>
+        <item>Save and close</item>
+        <item>Close</item>
+    </string-array>
+    <string-array name="fast_forward_speed_entryvalues">
+		<item>0.5x</item>
+		<item>1.5x</item>
+		<item>2x</item>
+		<item>3x</item>
+		<item>4x</item>
+		<item>8x</item>
+	</string-array>
+    <string-array name="file_chooser_filters">
+		<item>.nes</item>
+		<item>.fds</item>
+		<item>.zip</item>
+	</string-array>
+    <string-array name="frame_skip_entries">
+        <item>Automatic</item>
+        <item>Manual</item>
+    </string-array>
+    <string-array name="frame_skip_entryvalues">
+		<item>auto</item>
+		<item>manual</item>
+	</string-array>
+    <string-array name="orientation_entries">
+        <item>Unspecified</item>
+        <item>Landscape</item>
+        <item>Portrait</item>
+    </string-array>
+    <string-array name="orientation_entryvalues">
+		<item>unspecified</item>
+		<item>landscape</item>
+		<item>portrait</item>
+	</string-array>
+    <string-array name="refresh_rate_entries">
+        <item>Default</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="refresh_rate_entryvalues">
+		<item>default</item>
+		<item>30</item>
+		<item>40</item>
+		<item>50</item>
+		<item>60</item>
+	</string-array>
+    <string-array name="scaling_mode_entries">
+        <item>Stretched</item>
+        <item>Scaled</item>
+        <item>2x</item>
+        <item>Original</item>
+    </string-array>
+    <string-array name="scaling_mode_entryvalues">
+		<item>stretch</item>
+		<item>proportional</item>
+		<item>2x</item>
+		<item>original</item>
+	</string-array>
+    <string-array name="second_controller_entries">
+        <item>None</item>
+        <item>Zapper (Light gun)</item>
+        <item>Gamepad</item>
+    </string-array>
+    <string-array name="second_controller_entryvalues">
+		<item>none</item>
+		<item>zapper</item>
+		<item>gamepad</item>
+	</string-array>
+    <string-array name="vkeypad_layout_entries">
+        <item>Bottom + Bottom</item>
+        <item>Bottom + Top</item>
+        <item>Top + Bottom</item>
+        <item>Top + Top</item>
+    </string-array>
+    <string-array name="vkeypad_layout_entryvalues">
+		<item>bottom_bottom</item>
+		<item>bottom_top</item>
+		<item>top_bottom</item>
+		<item>top_top</item>
+	</string-array>
+    <string-array name="vkeypad_size_entries">
+        <item>Large</item>
+        <item>Medium</item>
+        <item>Small</item>
+    </string-array>
+    <string-array name="vkeypad_size_entryvalues">
+		<item>large</item>
+		<item>medium</item>
+		<item>small</item>
+	</string-array>
+    <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+    <color name="notification_material_background_media_default_color">#ff424242</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="ripple_material_light">#1f000000</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+    <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
+    <declare-styleable name="FontFamily"><attr format="string" name="fontProviderAuthority"/><attr format="string" name="fontProviderPackage"/><attr format="string" name="fontProviderQuery"/><attr format="reference" name="fontProviderCerts"/><attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr><attr format="integer" name="fontProviderFetchTimeout">
+          
+            <enum name="forever" value="-1"/>
+        </attr></declare-styleable>
+    <declare-styleable name="FontFamilyFont"><attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr><attr format="reference" name="font"/><attr format="integer" name="fontWeight"/></declare-styleable>
+    <dimen name="compat_button_inset_horizontal_material">4dp</dimen>
+    <dimen name="compat_button_inset_vertical_material">6dp</dimen>
+    <dimen name="compat_button_padding_horizontal_material">8dp</dimen>
+    <dimen name="compat_button_padding_vertical_material">4dp</dimen>
+    <dimen name="compat_control_corner_material">2dp</dimen>
+    <dimen name="notification_action_icon_size">32dp</dimen>
+    <dimen name="notification_action_text_size">13sp</dimen>
+    <dimen name="notification_big_circle_margin">12dp</dimen>
+    <dimen name="notification_content_margin_start">8dp</dimen>
+    <dimen name="notification_large_icon_height">64dp</dimen>
+    <dimen name="notification_large_icon_width">64dp</dimen>
+    <dimen name="notification_main_column_padding_top">10dp</dimen>
+    <dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen>
+    <dimen name="notification_right_icon_size">16dp</dimen>
+    <dimen name="notification_right_side_padding_top">2dp</dimen>
+    <dimen name="notification_small_icon_background_padding">3dp</dimen>
+    <dimen name="notification_small_icon_size_as_large">24dp</dimen>
+    <dimen name="notification_subtext_size">13sp</dimen>
+    <dimen name="notification_top_pad">10dp</dimen>
+    <dimen name="notification_top_pad_large_text">5dp</dimen>
+    <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
+    <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+    <item name="line1" type="id"/>
+    <item name="line3" type="id"/>
+    <item name="text" type="id"/>
+    <item name="text2" type="id"/>
+    <item name="title" type="id"/>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="google_play_services_version">12451000</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="about">About</string>
+    <string name="accurate_rendering">Accurate rendering</string>
+    <string name="accurate_rendering_prompt">Will not take effect until game is reloaded</string>
+    <string name="accurate_rendering_summary">Punch Out needs this!</string>
+    <string name="app_about">About Nesoid</string>
+    <string name="app_label">Ice clumbe</string>
+    <string name="appearance">Appearance</string>
+    <string name="aspect_ratio">Aspect ratio</string>
+    <string name="audio_settings">Audio settings</string>
+    <string name="audio_video_settings">Audio &amp; video settings</string>
+    <string name="auto_sync_client">Auto sync client</string>
+    <string name="auto_sync_client_interval">Auto sync interval</string>
+    <string name="bios">BIOS</string>
+    <string name="bluetooth_client">Bluetooth (Client)</string>
+    <string name="bluetooth_server">Bluetooth (Server) </string>
+    <string name="bluetooth_server_listening">Waiting for connection...\n\nClick here to make this device discoverable.</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="change_disk">Change disk</string>
+    <string name="cheat_code">Code:</string>
+    <string name="cheat_name">Name (Optional):</string>
+    <string name="cheating">Cheating</string>
+    <string name="cheats">Cheats</string>
+    <string name="client_connecting">Connecting to device...</string>
+    <string name="close">Close</string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
+    <string name="connect_failed">Connecting to remote failed.</string>
+    <string name="connection_closed">Remote disconnected.</string>
+    <string name="disable_extra_buttons">Disable A/B turbo</string>
+    <string name="disk_side">Disk %1$d Side %2$c</string>
+    <string name="dpad_4way">Disable D-pad diagonals</string>
+    <string name="dpad_deadzone">D-pad dead zone</string>
+    <string name="emulator_service_running">Classic Game</string>
+    <string name="enable_cheats">Enable cheats</string>
+    <string name="enable_game_genie">Enable Game Genie</string>
+    <string name="enable_sensor">Sensor as left/right</string>
+    <string name="enable_sound">Enable sound</string>
+    <string name="enable_trackball">Trackball as D-pad</string>
+    <string name="enable_vibrator">Vibrate on keypress</string>
+    <string name="enable_vkeypad">Virtual keypad</string>
+    <string name="fast_forward">Fast forward</string>
+    <string name="fast_forward_speed">Fast forward speed</string>
+    <string name="fds_rom">Famicom Disk System</string>
+    <string name="flip_screen">Screen upside-down</string>
+    <string name="flip_screen_summary">Useful if d-pad is on the right side, but you want it on the left side</string>
+    <string name="frame_skip_mode">Frame skip mode</string>
+    <string name="frame_skip_settings">Frame skip settings</string>
+    <string name="full_screen_mode">Full screen mode</string>
+    <string name="full_screen_mode_summary">Hide system notification bar</string>
+    <string name="game_genie_rom">Game Genie</string>
+    <string name="gamepad_1">Pad 1</string>
+    <string name="gamepad_2">Pad 2</string>
+    <string name="gamepad_A">Button A</string>
+    <string name="gamepad_AB">Button A&amp;B</string>
+    <string name="gamepad_A_turbo">Button A (turbo)</string>
+    <string name="gamepad_B">Button B</string>
+    <string name="gamepad_B_turbo">Button B (turbo)</string>
+    <string name="gamepad_down">Down</string>
+    <string name="gamepad_down_left">Down+Left</string>
+    <string name="gamepad_down_right">Down+Right</string>
+    <string name="gamepad_left">Left</string>
+    <string name="gamepad_right">Right</string>
+    <string name="gamepad_select">Select</string>
+    <string name="gamepad_start">Start</string>
+    <string name="gamepad_up">Up</string>
+    <string name="gamepad_up_left">Up+Left</string>
+    <string name="gamepad_up_right">Up+Right</string>
+    <string name="help">Help</string>
+    <string name="hide_buttons">Hide A/B</string>
+    <string name="hide_controls">Hide controls</string>
+    <string name="hide_dpad">Hide D-pad</string>
+    <string name="hide_extra_buttons">Hide A/B turbo</string>
+    <string name="hide_select_start">Hide select/start</string>
+    <string name="in_between_press">In-between press</string>
+    <string name="in_between_press_summary">Press in-between two buttons to simulate simultaneous press</string>
+    <string name="input_settings">Input settings</string>
+    <string name="invalid_cheat_code">Cheat code is invalid!</string>
+    <string name="invalid_dir">Invalid directory</string>
+    <string name="invalid_ip_address">Invalid IP address.</string>
+    <string name="invalid_port">Invalid port.</string>
+    <string name="ip_address">IP:</string>
+    <string name="key_clear">Clear</string>
+    <string name="key_mappings">Key mappings</string>
+    <string name="key_mappings_summary">Map game keys to phone hardware buttons</string>
+    <string name="key_none">&lt;none></string>
+    <string name="key_profiles">Key profiles</string>
+    <string name="key_unknown">&lt;unknown></string>
+    <string name="launcher_shortcut_name">NESS game</string>
+    <string name="layout_margin">Layout margin</string>
+    <string name="load_profile">Load profile</string>
+    <string name="load_rom_failed">Load ROM failed. Please try another file.</string>
+    <string name="load_state">Load</string>
+    <string name="load_state_title">Load state</string>
+    <string name="max_frame_skips">Max frame skips</string>
+    <string name="max_frame_skips_summary">Maximum number of consecutive frame skips</string>
+    <string name="max_frames_ahead">Max frames ahead</string>
+    <string name="max_frames_ahead_summary">Values other than 0 may cause significant sync problem!</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_edit">Edit</string>
+    <string name="multitouch_unsupported">This phone does not support multi-touch!"</string>
+    <string name="netplay_connect">Net-play</string>
+    <string name="netplay_disconnect">Disconnect</string>
+    <string name="netplay_settings">Net-play settings</string>
+    <string name="netplay_sync">Sync</string>
+    <string name="new_cheat">New cheat</string>
+    <string name="new_profile">New profile</string>
+    <string name="new_profile_error">Error creating the new profile.</string>
+    <string name="new_profile_title">Profile name</string>
+    <string name="no_cheats_help">"You haven't entered any cheats yet.\n\nTo add cheats, press <font fgcolor="#ffffffff"><b>Menu</b></font> and then <font fgcolor="#ffffffff"><b>New cheat</b></font>. Cheat codes can be:\n
+		\n<li><font fgcolor="#ffffffff"><b>Game Genie</b></font> (eg. SLAIUZ)</li>"
+	</string>
+    <string name="no_fast_forward">Regular</string>
+    <string name="no_files_in_folder">No appropriate files in this folder.</string>
+    <string name="none_found">No devices found</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="orientation">Orientation</string>
+    <string name="orientation_summary">The game screen orientation</string>
+    <string name="other_settings">Other settings</string>
+    <string name="point_size_press">By point size</string>
+    <string name="point_size_press_summary">Determine by touch point size (does not work on all devices)</string>
+    <string name="point_size_press_threshold">Point size threshold</string>
+    <string name="port">Port:</string>
+    <string name="power">Power</string>
+    <string name="press_key_prompt">Press a hardware key...</string>
+    <string name="protocol_incompatible">Protocol incompatible. Please update both ends to the latest version!</string>
+    <string name="quick_load">Quick load</string>
+    <string name="quick_load_on_start">Quick load on start</string>
+    <string name="quick_load_on_start_summary">Auto load game state on ROM start</string>
+    <string name="quick_save">Quick save</string>
+    <string name="quit_game_title">Close game</string>
+    <string name="refresh">Refresh</string>
+    <string name="refresh_rate">Screen refresh rate</string>
+    <string name="refresh_rate_summary">MOTO Droid 2.1 users should set this to 30!</string>
+    <string name="replace_game_message">Start playing the new game? The current game <b>WILL NOT</b> be saved.</string>
+    <string name="replace_game_title">Replace Game</string>
+    <string name="reset">Reset</string>
+    <string name="rom_not_supported">ROM file type is not supported.</string>
+    <string name="s1">Save image</string>
+    <string name="s2">"Allow Ad to store image in Picture gallery?"</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
+    <string name="save_profile">Save profile</string>
+    <string name="save_state">Save</string>
+    <string name="save_state_title">Save state</string>
+    <string name="scaling_mode">Scaling mode</string>
+    <string name="scanning">scanning for devices...</string>
+    <string name="screenshot">Screenshot</string>
+    <string name="screenshot_saved">Screenshot saved to Gallery.</string>
+    <string name="search_roms">Search ROMs</string>
+    <string name="second_controller">2nd input device</string>
+    <string name="second_controller_summary">To use Zapper, you also need to turn off the virtual keypad!</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="sensor_sensitivity">Sensor sensitivity</string>
+    <string name="settings">Settings</string>
+    <string name="shortcut_keys">Shortcut keys</string>
+    <string name="shortcut_name">Shortcut Name</string>
+    <string name="slot_empty">&lt;empty></string>
+    <string name="slot_nth">Slot %1$d</string>
+    <string name="slot_quick">Quick</string>
+    <string name="sound_volume">Sound volume</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_select_rom">Select ROM</string>
+    <string name="trackball_sensitivity">Trackball sensitivity</string>
+    <string name="two_buttons_press">Two-buttons press</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="use_input_method">Use input method</string>
+    <string name="use_input_method_summary">Enable special input device (eg. bluetooth gamepad)</string>
+    <string name="user_settings">User settings</string>
+    <string name="video_settings">Video settings</string>
+    <string name="vkeypad_layout">D-pad + buttons layout</string>
+    <string name="vkeypad_settings">Virtual keypad settings</string>
+    <string name="vkeypad_settings_summary">Setup the touchable on-screen keypad</string>
+    <string name="vkeypad_size">Controls size</string>
+    <string name="vkeypad_transparency">Controls transparency</string>
+    <string name="wifi_client">Wi-Fi (Client))</string>
+    <string name="wifi_not_available">Wi-Fi network is not available!</string>
+    <string name="wifi_server">Wi-Fi (Server)</string>
+    <string name="wifi_server_listening">Waiting for connection on:\n\nIP: %1$s\nPort: %2$d</string>
+    <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Info.Media"/>
+    <style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/>
+    <style name="TextAppearance.Compat.Notification.Line2.Media" parent="TextAppearance.Compat.Notification.Info.Media"/>
+    <style name="TextAppearance.Compat.Notification.Media"/>
+    <style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Time.Media"/>
+    <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <style name="TextAppearance.Compat.Notification.Title.Media"/>
+    <style name="Theme.IAPTheme" parent="android:Theme">
+<item name="android:windowIsFloating">true</item>
+<item name="android:windowBackground">@android:color/transparent</item>
+<item name="android:windowContentOverlay">@null</item>
+<item name="android:windowNoTitle">true</item>
+<item name="android:backgroundDimEnabled">false</item>
+<item name="android:windowIsTranslucent">true</item>
+</style>
+    <style name="Widget.Compat.NotificationActionContainer" parent=""/>
+    <style name="Widget.Compat.NotificationActionText" parent=""/>
+</resources>
